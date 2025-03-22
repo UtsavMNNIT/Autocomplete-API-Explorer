@@ -1,0 +1,13 @@
+This API does not support custom limits
+This API does not support pagination
+The API returns up to 10 results per request
+The API has a rate limit of 100 requests per minute.
+The JSON response is 125 bytes long.
+There is no rate limit of header.
+The API is case Sensitive.
+The API does not contains any number.
+The API does not support sorting (ascending or descending).
+API always returns me the lowercase letters only.
+It uses  prefix matching
+Names are not real just some random alphabets
+Server is uvicorn

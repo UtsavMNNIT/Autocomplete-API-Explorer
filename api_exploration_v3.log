@@ -1,0 +1,68 @@
+2025-03-22 15:25:51,776 - INFO - No cache file found. Starting fresh.
+2025-03-22 15:25:51,777 - INFO - Starting name extraction for version v3...
+2025-03-22 15:25:51,777 - INFO - Starting name extraction for version v3...
+2025-03-22 15:25:52,024 - INFO - Version v3 autocomplete endpoint is working. Response: {
+  "version": "v3",
+  "count": 5,
+  "results": [
+    "abf1cd.y",
+    "abhca",
+    "abi2ka",
+    "abk3ay",
+    "abvn97s"
+  ]
+}
+2025-03-22 15:25:52,029 - INFO - Exploring prefix 'a' for version v3
+2025-03-22 15:25:52,030 - INFO - Exploring prefix 'b' for version v3
+2025-03-22 15:25:52,031 - INFO - Exploring prefix 'c' for version v3
+2025-03-22 15:25:52,032 - INFO - Exploring prefix 'd' for version v3
+2025-03-22 15:25:52,033 - INFO - Exploring prefix 'e' for version v3
+2025-03-22 15:25:52,034 - INFO - Exploring prefix 'f' for version v3
+2025-03-22 15:25:52,034 - INFO - Exploring prefix 'g' for version v3
+2025-03-22 15:25:52,036 - INFO - Exploring prefix 'h' for version v3
+2025-03-22 15:25:52,037 - INFO - Exploring prefix 'i' for version v3
+2025-03-22 15:25:52,038 - INFO - Exploring prefix 'j' for version v3
+2025-03-22 15:25:52,038 - INFO - Exploring prefix 'k' for version v3
+2025-03-22 15:25:52,039 - INFO - Exploring prefix 'l' for version v3
+2025-03-22 15:25:52,040 - INFO - Exploring prefix 'm' for version v3
+2025-03-22 15:25:52,041 - INFO - Exploring prefix 'n' for version v3
+2025-03-22 15:25:52,043 - INFO - Exploring prefix 'o' for version v3
+2025-03-22 15:25:52,044 - INFO - Exploring prefix 'p' for version v3
+2025-03-22 15:25:52,044 - INFO - Exploring prefix 'q' for version v3
+2025-03-22 15:25:52,045 - INFO - Exploring prefix 'r' for version v3
+2025-03-22 15:25:52,046 - INFO - Exploring prefix 's' for version v3
+2025-03-22 15:25:52,047 - INFO - Exploring prefix 't' for version v3
+2025-03-22 15:25:52,048 - INFO - Exploring prefix 'u' for version v3
+2025-03-22 15:25:52,049 - INFO - Exploring prefix 'v' for version v3
+2025-03-22 15:25:52,050 - INFO - Exploring prefix 'w' for version v3
+2025-03-22 15:25:52,050 - INFO - Exploring prefix 'x' for version v3
+2025-03-22 15:25:52,051 - INFO - Exploring prefix 'y' for version v3
+2025-03-22 15:25:52,052 - INFO - Exploring prefix 'z' for version v3
+2025-03-22 15:25:52,145 - INFO - Saved 15 names to cache.
+2025-03-22 15:25:52,158 - INFO - Saved 30 names to cache.
+2025-03-22 15:25:52,160 - INFO - Saved 45 names to cache.
+2025-03-22 15:25:52,161 - INFO - Saved 60 names to cache.
+2025-03-22 15:25:52,175 - INFO - Saved 75 names to cache.
+2025-03-22 15:25:52,178 - INFO - Saved 90 names to cache.
+2025-03-22 15:25:52,180 - INFO - Saved 105 names to cache.
+2025-03-22 15:25:52,182 - INFO - Saved 120 names to cache.
+2025-03-22 15:25:52,183 - INFO - Saved 135 names to cache.
+2025-03-22 15:25:52,185 - INFO - Saved 150 names to cache.
+2025-03-22 15:25:52,187 - INFO - Saved 165 names to cache.
+2025-03-22 15:25:52,190 - INFO - Saved 180 names to cache.
+2025-03-22 15:25:52,194 - INFO - Saved 195 names to cache.
+2025-03-22 15:25:52,196 - INFO - Saved 210 names to cache.
+2025-03-22 15:25:52,204 - INFO - Saved 225 names to cache.
+2025-03-22 15:25:52,206 - INFO - Saved 240 names to cache.
+2025-03-22 15:25:52,208 - INFO - Saved 255 names to cache.
+2025-03-22 15:25:52,210 - INFO - Saved 270 names to cache.
+2025-03-22 15:25:52,212 - INFO - Saved 285 names to cache.
+2025-03-22 15:25:52,214 - INFO - Saved 300 names to cache.
+2025-03-22 15:25:52,216 - INFO - Saved 315 names to cache.
+2025-03-22 15:25:52,218 - INFO - Saved 330 names to cache.
+2025-03-22 15:25:52,220 - INFO - Saved 345 names to cache.
+2025-03-22 15:25:52,221 - INFO - Saved 360 names to cache.
+2025-03-22 15:25:52,223 - INFO - Saved 375 names to cache.
+2025-03-22 15:25:52,225 - INFO - Saved 390 names to cache.
+2025-03-22 15:26:52,044 - INFO - Finished extraction for version v3. Total unique names: 390
+2025-03-22 15:26:52,045 - INFO - Total requests made to v3/autocomplete: 27

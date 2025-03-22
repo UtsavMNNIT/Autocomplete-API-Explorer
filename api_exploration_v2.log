@@ -1,0 +1,72 @@
+2025-03-22 15:18:38,569 - INFO - No cache file found. Starting fresh.
+2025-03-22 15:18:38,569 - INFO - Starting name extraction for version v2...
+2025-03-22 15:18:38,569 - INFO - Starting name extraction for version v2...
+2025-03-22 15:18:39,786 - WARNING - Rate limit hit for http://35.200.185.69:8000/v2/autocomplete with params {'query': 'ab'}. Waiting 60 seconds...
+2025-03-22 15:19:39,994 - INFO - Version v2 autocomplete endpoint is working. Response: {
+  "version": "v2",
+  "count": 8,
+  "results": [
+    "ab",
+    "ab1",
+    "ab6v",
+    "abh0x57",
+    "abhx1tzk",
+    "abq0",
+    "abv",
+    "aby27b"
+  ]
+}
+2025-03-22 15:19:39,995 - INFO - Exploring prefix 'a' for version v2
+2025-03-22 15:19:40,201 - INFO - Saved 12 names to cache.
+2025-03-22 15:19:40,803 - INFO - Exploring prefix 'b' for version v2
+2025-03-22 15:19:41,020 - INFO - Saved 24 names to cache.
+2025-03-22 15:19:41,624 - INFO - Exploring prefix 'c' for version v2
+2025-03-22 15:19:42,037 - INFO - Saved 36 names to cache.
+2025-03-22 15:19:42,641 - INFO - Exploring prefix 'd' for version v2
+2025-03-22 15:19:42,770 - INFO - Saved 48 names to cache.
+2025-03-22 15:19:43,371 - INFO - Exploring prefix 'e' for version v2
+2025-03-22 15:19:43,524 - INFO - Saved 60 names to cache.
+2025-03-22 15:19:44,125 - INFO - Exploring prefix 'f' for version v2
+2025-03-22 15:19:44,250 - INFO - Saved 72 names to cache.
+2025-03-22 15:19:44,851 - INFO - Exploring prefix 'g' for version v2
+2025-03-22 15:19:44,976 - INFO - Saved 84 names to cache.
+2025-03-22 15:19:45,578 - INFO - Exploring prefix 'h' for version v2
+2025-03-22 15:19:45,732 - INFO - Saved 96 names to cache.
+2025-03-22 15:19:46,333 - INFO - Exploring prefix 'i' for version v2
+2025-03-22 15:19:46,498 - INFO - Saved 108 names to cache.
+2025-03-22 15:19:47,099 - INFO - Exploring prefix 'j' for version v2
+2025-03-22 15:19:47,226 - INFO - Saved 120 names to cache.
+2025-03-22 15:19:47,827 - INFO - Exploring prefix 'k' for version v2
+2025-03-22 15:19:47,959 - INFO - Saved 132 names to cache.
+2025-03-22 15:19:48,561 - INFO - Exploring prefix 'l' for version v2
+2025-03-22 15:19:48,802 - INFO - Saved 144 names to cache.
+2025-03-22 15:19:49,402 - INFO - Exploring prefix 'm' for version v2
+2025-03-22 15:19:49,622 - INFO - Saved 156 names to cache.
+2025-03-22 15:19:50,223 - INFO - Exploring prefix 'n' for version v2
+2025-03-22 15:19:50,440 - INFO - Saved 168 names to cache.
+2025-03-22 15:19:51,040 - INFO - Exploring prefix 'o' for version v2
+2025-03-22 15:19:51,259 - INFO - Saved 180 names to cache.
+2025-03-22 15:19:51,860 - INFO - Exploring prefix 'p' for version v2
+2025-03-22 15:19:52,084 - INFO - Saved 192 names to cache.
+2025-03-22 15:19:52,685 - INFO - Exploring prefix 'q' for version v2
+2025-03-22 15:19:52,836 - INFO - Saved 204 names to cache.
+2025-03-22 15:19:53,437 - INFO - Exploring prefix 'r' for version v2
+2025-03-22 15:19:53,574 - INFO - Saved 216 names to cache.
+2025-03-22 15:19:54,175 - INFO - Exploring prefix 's' for version v2
+2025-03-22 15:19:54,308 - INFO - Saved 228 names to cache.
+2025-03-22 15:19:54,908 - INFO - Exploring prefix 't' for version v2
+2025-03-22 15:19:55,037 - INFO - Saved 240 names to cache.
+2025-03-22 15:19:55,638 - INFO - Exploring prefix 'u' for version v2
+2025-03-22 15:19:55,770 - INFO - Saved 252 names to cache.
+2025-03-22 15:19:56,371 - INFO - Exploring prefix 'v' for version v2
+2025-03-22 15:19:56,492 - INFO - Saved 264 names to cache.
+2025-03-22 15:19:57,098 - INFO - Exploring prefix 'w' for version v2
+2025-03-22 15:19:57,261 - INFO - Saved 276 names to cache.
+2025-03-22 15:19:57,864 - INFO - Exploring prefix 'x' for version v2
+2025-03-22 15:19:58,012 - INFO - Saved 288 names to cache.
+2025-03-22 15:19:58,617 - INFO - Exploring prefix 'y' for version v2
+2025-03-22 15:19:58,760 - INFO - Saved 300 names to cache.
+2025-03-22 15:19:59,366 - INFO - Exploring prefix 'z' for version v2
+2025-03-22 15:19:59,509 - INFO - Saved 312 names to cache.
+2025-03-22 15:20:00,135 - INFO - Finished extraction for version v2. Total unique names: 312
+2025-03-22 15:20:00,135 - INFO - Total requests made to v2/autocomplete: 28
